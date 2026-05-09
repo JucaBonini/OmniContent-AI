@@ -1,8 +1,9 @@
+<?php
 /**
  * Plugin Name: OmniContent AI: Universal GEO & SEO Automator
  * Plugin URI:  https://capitalconsciente.com.br
  * Description: The definitive AI content engine for the GEO/AEO era. Multi-niche, intent-aware, and built for high-authority SEO.
- * Version:     2.0.0
+ * Version:     2.0.1
  * Author:      OmniContent Team
  * License:     GPLv2 or later
  * Text Domain: omnicontent-ai
@@ -13,7 +14,7 @@ if (!defined('ABSPATH')) {
 }
 
 // Global Constants - OCAI Prefix
-define('OCAI_VERSION', '2.0.0');
+define('OCAI_VERSION', '2.0.1');
 define('OCAI_PATH', plugin_dir_path(__FILE__));
 define('OCAI_URL', plugin_dir_url(__FILE__));
 
